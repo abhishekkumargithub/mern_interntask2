@@ -1,2 +1,2 @@
 # mern_interntask2
-ethnus mern
+website link: https://abhishekkumargithub.github.io/mern_interntask2/
